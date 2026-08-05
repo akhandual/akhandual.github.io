@@ -1,7 +1,16 @@
 baseURL = 'https://akhandual.github.io/'
 locale = 'en-us'
-title = 'Anshuman Khandual'
+title = 'ANSHUMAN KHANDUAL'
 
 [module]
   [[module.imports]]
     path = "github.com/imfing/hextra"
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[params.navbar]
+  displayLogo = false
+
+[params.footer]
+  displayPoweredBy = false

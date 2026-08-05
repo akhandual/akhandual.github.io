@@ -1,0 +1,13 @@
+body {
+    background: white !important;
+}
+
+.hextra-nav-container {
+    min-height: 60px;
+    background: rgb(228, 62, 62);
+}
+
+.hextra-nav-container nav a span {
+    font-size: 1.6rem !important;
+    line-height: 1.2;
+}
